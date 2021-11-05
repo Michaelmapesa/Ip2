@@ -1,0 +1,12 @@
+header{
+    display: flex;
+    background-image: url("images/image2.png");
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+header div P{
+    color: yellow;
+}
