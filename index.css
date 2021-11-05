@@ -27,19 +27,24 @@ header div P{
     float: left;
     color: #F19201;
     display: inline;
-    margin-top: 10px;
-    margin-left: 15%;
     width: 1%;
+    position: relative;
     
 }
 #list>ul>li a{
     display: block;
     color: white;
     text-align: center;
-    padding: 5px 5px;
+    padding: 10px 50px;
     text-decoration: white;
     
 }
 #list>ul>li a:hover{
     background-color: #F19201;
+}
+#description{
+    color: white;
+    left: 25px;
+    bottom: -50px;
+    position: relative;
 }
