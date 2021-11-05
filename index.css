@@ -1,5 +1,4 @@
 header{
-    display: flex;
     background-image: url("images/image2.png");
     background-size: cover;
     height: 500px;
@@ -8,5 +7,39 @@ header{
 
 }
 header div P{
-    color: yellow;
+    color: #F19201;
+}
+#logo{
+    left: 30px;
+    display: flex;
+    position: relative;
+    top: 20px;
+}
+#list>ul{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+#list>ul>li{
+    float: left;
+    color: #F19201;
+    display: inline;
+    margin-top: 10px;
+    margin-left: 15%;
+    width: 1%;
+    
+}
+#list>ul>li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: white;
+    
+}
+#list>ul>li a:hover{
+    background-color: #F19201;
 }
