@@ -45,6 +45,18 @@ header div P{
 #description{
     color: white;
     left: 25px;
-    bottom: -50px;
+    bottom: -60px;
     position: relative;
+}
+#order p{
+    color: white;
+}
+#order{
+    background-color:#F19201;
+    width: 80px;
+    height: 20px;
+    left: 25px;
+    position: relative;
+    bottom: -40px;
+
 }
