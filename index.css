@@ -58,5 +58,16 @@ header div P{
     left: 25px;
     position: relative;
     bottom: -40px;
-
 }
+section1>div>h3{
+    text-align: center;
+    color: #F19201;
+    font-family: Roboto;
+}
+.italic{
+    font-style: italic;
+    font-family: Roboto;
+    text-align: center;
+}
+
+   
