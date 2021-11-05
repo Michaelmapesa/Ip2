@@ -69,5 +69,26 @@ section1>div>h3{
     font-family: Roboto;
     text-align: center;
 }
+.box{
+    
+    padding: 20px;
+    margin-right: 35px;
+    border: solid gray;
+    background-color: white;
+    
+}
+section1 p{
+    font-style: italic;
+    font-family: Roboto;
+    text-align: center;
+    font-size: small;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 230px;
+}
+
 
    
