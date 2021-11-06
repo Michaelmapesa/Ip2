@@ -166,7 +166,7 @@ width: 100%;
 }
 .div-1{
     padding: 20px;
-    margin: 30px;
+    margin: 0px;
     display: flex;
     background-color:brown;
     
@@ -184,7 +184,7 @@ width: 100%;
 }
 .div-2{
     padding: 20px;
-    margin: 30px;
+    margin: 0px;
     display: flex;
     background-color: red;
     
