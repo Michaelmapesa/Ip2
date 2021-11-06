@@ -16,28 +16,30 @@ header div P{
     top: 20px;
 }
 #list>ul{
+    display: flex;
+    padding-right: 5px;
     list-style-type: none;
-    overflow: hidden;
-    margin: 0;
-    padding: 0;
+    position: static;
+    float: right;
+    position: relative;
+    top: -105px;
     
     
 }
 #list>ul>li{
-    float: left;
-    color: #F19201;
-    display: inline;
-    width: 1%;
-    position: relative;
+    margin-top: 0px;
+    margin-right: 0px;
     
 }
 #list>ul>li a{
-    display: block;
     color: white;
     text-align: center;
     padding: 10px 50px;
     text-decoration: white;
     
+}
+#list>ul>li a.active{
+    background-color: #F19201;
 }
 #list>ul>li a:hover{
     background-color: #F19201;
@@ -109,8 +111,7 @@ section1 p{
         background-color:black;
         width: 100%;
         position: relative;
-        right: -240px;
-        height: -80px;
+        box-sizing: border-box;
         
     }
 .mage{
@@ -118,17 +119,17 @@ section1 p{
         background-position:center;
         background-repeat: no-repeat;
         background-size: cover;;
-        height: 0px;
         border: 0px;
         margin: 0px;
         padding: 200px;
-        width: 60%;
+        box-sizing: border-box;
     
 
 }
 .container2{
     display: flex;
     flex-direction: row
+    
     
     
 
