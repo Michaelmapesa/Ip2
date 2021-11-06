@@ -30,10 +30,6 @@ header div P{
 #list>ul>li{
     margin-top: 0px;
     margin-right: 0px;
-#hom{
-    color:  #F19201;
-
-    }
     
 }
 #list>ul>li a{
@@ -47,6 +43,7 @@ header div P{
     background-color: #F19201;
 }
 #list>ul>li a:hover{
+
     background-color: #F19201;
 }
 #description{
@@ -75,6 +72,7 @@ section1>div>h3{
     font-style: italic;
     font-family: Roboto;
     text-align: center;
+    font-size: small;
 }
 .box{
     
@@ -84,7 +82,7 @@ section1>div>h3{
     background-color: white;
     
 }
-section1 p{
+section p{
     font-style: italic;
     font-family: Roboto;
     text-align: center;
@@ -104,6 +102,8 @@ section1 p{
 
     text-align: center;
     color: white;
+    font-style: italic;
+    font-size: small;
 }
 .rev>h1{
 
@@ -147,8 +147,56 @@ section1 p{
 }
 
 .three{
-    display: block;
-
+    text-align: center;
+    font-style: italic;
+    font-size: small;
 }
+#menu2{
+    font-style: normal;
+    color: #F19201;
+    font-size: x-large;
+}
+#container3{
+    display: flex;
+flex-direction: row;
+width: 100%;
 
-   
+    
+    
+}
+.div-1{
+    padding: 20px;
+    margin: 30px;
+    display: flex;
+    background-color:brown;
+    
+    
+}
+.div-1>h3{
+    text-align: center;
+}
+.div-1>p{
+    text-align: center;
+}
+.div-1>img{
+    height: 200px;
+    width: 200px;
+}
+.div-2{
+    padding: 20px;
+    margin: 30px;
+    display: flex;
+    background-color: red;
+    
+    
+}
+.div-2>h3{
+    text-align: center;
+}
+.div-2>p{
+    text-align: center;
+}
+.div-2>img{
+    height: 200px;
+    width: 200px;
+
