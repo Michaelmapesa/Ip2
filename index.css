@@ -15,6 +15,10 @@ header div P{
     position: relative;
     top: 20px;
 }
+#mes{
+    text-align: center;
+    color: #F19201;
+}
 #list>ul{
     display: flex;
     padding-right: 5px;
@@ -92,7 +96,7 @@ section p{
     display: flex;
     flex-direction: row;
     position: relative;
-    left: 230px;
+    left: 100px;
 }
 .container2{
     
@@ -145,30 +149,34 @@ section p{
   height: 100px;
 
 }
+#container3{
+    width: 100%;
+    background-color:  #E5E5E5;
+    
+        
+        
+    }
 
 .three{
     text-align: center;
     font-style: italic;
     font-size: small;
+    background-color: #E5E5E5;
+    
 }
 #menu2{
     font-style: normal;
     color: #F19201;
     font-size: x-large;
 }
-#container3{
-    display: flex;
-flex-direction: row;
-width: 100%;
 
-    
-    
-}
 .div-1{
-    padding: 20px;
-    margin: 0px;
     display: flex;
-    background-color:brown;
+    background-color: white;
+    padding: ;
+
+
+
     
     
 }
@@ -183,20 +191,22 @@ width: 100%;
     width: 200px;
 }
 .div-2{
-    padding: 20px;
-    margin: 0px;
+    padding: 10px black;
+    margin: 10px;
     display: flex;
-    background-color: red;
+    justify-content: space-between;
+    position: relative;
+    top: -10px;
+    right: -100px;
+    margin: left 40px;
     
     
 }
-.div-2>h3{
+div-2{
     text-align: center;
 }
-.div-2>p{
-    text-align: center;
+.food{
+    border: 1px solid white;
+
 }
-.div-2>img{
-    height: 200px;
-    width: 200px;
 
