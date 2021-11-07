@@ -1,3 +1,6 @@
+body{
+    background-color: #E5E5E5;
+}
 header{
     background-image: url("images/image2.png");
     background-size: cover;
@@ -99,40 +102,27 @@ section p{
     left: 100px;
 }
 .container2{
-    
+    display: flex;
     background-color: black;
 }
-.rev>p{
+.rev{
 
     text-align: center;
     color: white;
+    position: relative;
+    left: 50px;
+    top: 100px;
+}
+.rev>p{
     font-style: italic;
     font-size: small;
 }
 .rev>h1{
-
-    text-align: center;
-    color: white;
+    font-size: xx-large;
 }
-.rev>h2{
-    
-    text-align: center;
-    color: white;
-}
-.rev{
-    
-    display: inline;
-    text-align: center;
-    color: white;
-}
-#loo{
-    font-style: normal;
-    color: white;
-}
-
 .mage  img{
-        max-width: 900px;
-        max-height: 600px;
+        max-width: 500px;
+        max-height: 500px;
         float: left;
         
 }
@@ -149,13 +139,7 @@ section p{
   height: 100px;
 
 }
-#container3{
-    width: 100%;
-    background-color:  #E5E5E5;
-    
-        
-        
-    }
+
 
 .three{
     text-align: center;
@@ -170,21 +154,29 @@ section p{
     font-size: x-large;
 }
 
+.container3{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    flex-direction: row;
+    background-color: #E5E5E5 ;
+    }
+
 .div-1{
     display: flex;
-    background-color: white;
-    padding: ;
-
-
-
+    border: 1px solid #fff;
+    background-color: #fff;
     
-    
+  
 }
 .div-1>h3{
     text-align: center;
 }
 .div-1>p{
-    text-align: center;
+text-align: justify;
+    font-style: italic;
+    font-size: small;
+    
 }
 .div-1>img{
     height: 200px;
