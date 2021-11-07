@@ -165,9 +165,18 @@ section p{
 .div-1{
     display: flex;
     border: 1px solid #fff;
-    background-color: #fff;
+    background-color: #fff; 
+}
+.tr{
+    color: #F19201;
+}
+.tr1{
+    background-color:#E5E5E5;
+    width: 50px;
+    height: 25px;
+
     
-  
+    
 }
 .div-1>h3{
     text-align: center;
@@ -199,6 +208,41 @@ div-2{
 }
 .food{
     border: 1px solid white;
+}
+.bottom{
+    text-align: center;
+    background-image: url("images/image8.png");
+    background-size: cover;
+    height: 350px;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
 
+}
+#finish{
+    position: relative;
+    top: 100px;
+    
+}
+
+#finish2{
+    width: 150px;
+    height: 75px;
+border: 20px;
+position: relative;
+left: 450px;
+margin: white;
+padding: 10px;
+}
+.copy>#right>p{
+    font-size: xx-small;
+    font-style: normal;
+    color: white;
+}
+.copy{
+    background-color: black;
+    height: 30px;
+    position: relative;
+    top: -10px;
 }
 
