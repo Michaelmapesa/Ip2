@@ -225,10 +225,10 @@ div-2{
     
 }
 
-#finish2{
+.finish2{
     width: 150px;
     height: 75px;
-border: 20px;
+border: 20px white;
 position: relative;
 left: 450px;
 margin: white;
