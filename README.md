@@ -4,7 +4,6 @@ Michael Mapesa Wanzala
 # Description
 
  It is a commercial website that sell food, it includes attractive images that advertise food through
-
  capturing clients attention and offer order services to them.
 
 # Installation process
@@ -12,16 +11,13 @@ Michael Mapesa Wanzala
  Install visual studio code.
 
 1. Install visual studio code
-
 2. Install  web browser
-
 3. Install Git.
 
 # Technology used
 
- HTML3
-
- CSS5
+ * HTML3
+ * CSS5
 
 # Reference
 
@@ -30,7 +26,6 @@ Michael Mapesa Wanzala
 # License
 
 MIT License
-
 Copyright (c) [2019] [Michael Mapesa]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distrubute, sublicence, and/or sell copies of the software, and to permit persons to whom the software is furnished to do so, subject to the following condition.
