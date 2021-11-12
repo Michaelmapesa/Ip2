@@ -40,4 +40,4 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTLY OF ANY KIND, EXPRESS OR IMPL
 
 Slack profile-Michael Mapesa
 
-Linked-Michael Mapesa
+Linked-Michael Mapesa.
