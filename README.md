@@ -21,4 +21,4 @@
 
 *HTML3
 
-*CSS
+*CSS5
